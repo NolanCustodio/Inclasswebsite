@@ -1,0 +1,9 @@
+body {
+    font-size: 12px;
+    background-color: green;
+}
+
+#header li {
+    display: inline;
+}
+
